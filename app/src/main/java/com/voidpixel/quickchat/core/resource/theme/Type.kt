@@ -1,4 +1,4 @@
-package com.voidpixel.quickchat.ui.theme
+package com.voidpixel.quickchat.core.resource.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
